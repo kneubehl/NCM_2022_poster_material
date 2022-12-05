@@ -1,0 +1,2 @@
+# NCM_2022_poster_material
+Hello and welcome! You can find here phylogenies for the Argasidae, Ixodidae and Nuttalliellidae as well as a pdf version of the poster. This work was recently published in Scientific Reports (https://doi.org/10.1038/s41598-022-23393-5) where these phylogenies were figures 4 and 5. Questions and/or comments can be directed to alexander.kneubehl@bcm.edu. Thanks for stopping by!
